@@ -1,0 +1,5 @@
+/Users/Alex/Projects/ProjetSousTitres/ProjetSousTitres/bin/Debug/ProjetSousTitres.exe
+/Users/Alex/Projects/ProjetSousTitres/ProjetSousTitres/bin/Debug/ProjetSousTitres.pdb
+/Users/Alex/Projects/ProjetSousTitres/ProjetSousTitres/obj/x86/Debug/ProjetSousTitres.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/ProjetSousTitres/ProjetSousTitres/obj/x86/Debug/ProjetSousTitres.exe
+/Users/Alex/Projects/ProjetSousTitres/ProjetSousTitres/obj/x86/Debug/ProjetSousTitres.pdb
